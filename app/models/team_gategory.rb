@@ -1,0 +1,2 @@
+class TeamGategory < ApplicationRecord
+end
